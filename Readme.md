@@ -2,7 +2,7 @@
 
 * Студент: [Александр Германов](https://up.htmlacademy.ru/htmlcss/39/user/2465587).
 * Наставник: [Ольга Ветер](https://htmlacademy.ru/profile/id73199).
-
+* Сайт: [Мой сайт](https://arzoforza.github.io/2465587-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
